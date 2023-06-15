@@ -1,0 +1,12 @@
+C:\Users\azael\source\repos\Inventario\CapaModeloInvetario\bin\Debug\CapaModeloInvetario.dll
+C:\Users\azael\source\repos\Inventario\CapaModeloInvetario\bin\Debug\CapaModeloInvetario.pdb
+C:\Users\azael\source\repos\Inventario\CapaModeloInvetario\obj\Debug\CapaModeloInvetario.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\Inventario\CapaModeloInvetario\obj\Debug\CapaModeloInvetario.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\Inventario\CapaModeloInvetario\obj\Debug\CapaModeloInvetario.dll
+C:\Users\azael\source\repos\Inventario\CapaModeloInvetario\obj\Debug\CapaModeloInvetario.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaModeloInvetario\bin\Debug\CapaModeloInvetario.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaModeloInvetario\bin\Debug\CapaModeloInvetario.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaModeloInvetario\obj\Debug\CapaModeloInvetario.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaModeloInvetario\obj\Debug\CapaModeloInvetario.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaModeloInvetario\obj\Debug\CapaModeloInvetario.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaModeloInvetario\obj\Debug\CapaModeloInvetario.pdb

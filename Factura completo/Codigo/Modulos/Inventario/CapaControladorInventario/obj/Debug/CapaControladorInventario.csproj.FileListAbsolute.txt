@@ -1,0 +1,15 @@
+C:\Users\azael\source\repos\Inventario\CapaControladorInventario\bin\Debug\CapaControladorInventario.dll
+C:\Users\azael\source\repos\Inventario\CapaControladorInventario\bin\Debug\CapaControladorInventario.pdb
+C:\Users\azael\source\repos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.dll
+C:\Users\azael\source\repos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\bin\Debug\CapaControladorInventario.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\bin\Debug\CapaControladorInventario.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\bin\Debug\CapaModeloInvetario.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\bin\Debug\CapaModeloInvetario.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CopyComplete
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Inventario\CapaControladorInventario\obj\Debug\CapaControladorInventario.pdb
